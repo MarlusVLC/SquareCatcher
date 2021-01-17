@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.1HourGJam-299th.iml
+# Datasource local storage ignored files
+/../../../../../../../:\1 Hour Game Jam\2021_01\1HourGJam-299th\.idea\.idea.1HourGJam-299th\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
